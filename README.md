@@ -22,9 +22,9 @@ The code defines a function to analyze features in each dataset, providing stati
 
 A function is defined to create histograms for specified columns in each dataset, helping visualize the data distribution.
 
-![Alt Text](my-image.png)
-![Alt Text](my-image.png)
-![Alt Text](my-image.png)
+![Alt Text](iris_housing.png)
+![Alt Text](titanic-histogram.png)
+![Alt Text](housing-histogram.png)
 
 
 ### Question 3: Handling Missing Values
